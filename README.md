@@ -5,6 +5,8 @@ This backend part is deployed using heroku and the link for the same can be foun
 
 Backend link : https://tinder-backend-clone-ckm.herokuapp.com
 
+Data can be found at : https://tinder-backend-clone-ckm.herokuapp.com/tinder/cards
+
 The link will contain just a hello message added to make sure it is running.
 
 The POST Method for this API is 
